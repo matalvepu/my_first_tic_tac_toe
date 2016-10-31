@@ -18201,5 +18201,5 @@ if move == '9':
             print('   |   | O ')
             print('   |   |   \n')
             
-            print('The computer wins!')
+            print('The computer wins!!')
             sys.exit()
